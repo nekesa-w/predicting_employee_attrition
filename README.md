@@ -108,7 +108,7 @@ plotly
    pip install numpy scipy scikit-learn shap ipykernel
    ```
 2. Open and run `predicting_employee_attritiom.ipynb` cell by cell.
-4. View the dashboard with the link: https://predicting-kenyan-food-prices.onrender.com/.
+4. View the dashboard with the link in the description.
 
 ## Project Structure
 
