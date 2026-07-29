@@ -86,29 +86,10 @@ The dataset represents a single company snapshot, so results may not generalize 
 - Guide staffing and compensation planning using department and role level patterns
 - Support human resource teams in monitoring overtime load as a retention risk factor
 
-## Requirements
-
-```
-pandas
-numpy
-matplotlib
-scipy
-scikit-learn
-shap
-ipykernel
-dash
-plotly
-```
-
 ## Usage
 
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   pip install numpy scipy scikit-learn shap ipykernel
-   ```
-2. Open and run `predicting_employee_attritiom.ipynb` cell by cell.
-4. View the dashboard with the link in the description.
+1. Open and run `predicting_employee_attrition.ipynb`.
+2. Open and run `dashboard.py`, or view the dashboard with the link in the description.
 
 ## Project Structure
 
