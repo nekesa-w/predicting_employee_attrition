@@ -107,9 +107,8 @@ plotly
    pip install -r requirements.txt
    pip install numpy scipy scikit-learn shap ipykernel
    ```
-2. Place `attrition_dataset.csv` in the same directory as the notebook and dashboard.
-3. Open and run `predicting_employee_attritiom.ipynb` cell by cell.
-4. Run the dashboard with `python dashboard.py` and open the local address printed in the terminal.
+2. Open and run `predicting_employee_attritiom.ipynb` cell by cell.
+4. View the dashboard with the link: https://predicting-kenyan-food-prices.onrender.com/.
 
 ## Project Structure
 
